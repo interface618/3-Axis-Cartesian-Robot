@@ -1,2 +1,1 @@
-# Development-of-an-AI-Based-Smart-Recycling-System-Using-a-3-Axis-Cartesian-Robot
-3축 직교 좌표 로봇을 이용한 AI 기반 스마트 분리수거 시스템 개발 
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=3A4A51&height=200&section=header&text=3-Axis-Cartesian-Robot%20&desc=Development-of-an-AI-Based-Smart-Recycling-System&descSize=20&descAlignY=70&fontSize=50" />
