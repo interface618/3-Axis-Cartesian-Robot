@@ -31,34 +31,40 @@ https://github.com/user-attachments/assets/f7063f24-820b-4ae6-a235-6e6485c27786
 
 <h2>역할 및 코멘트</h2>
 
-<table>
+<table align="center">
   <thead>
     <tr>
-      <th>이름</th>
-      <th>담당 역할</th>
-      <th>코멘트</th>
+      <th align="center">이름</th>
+      <th align="center">담당 역할</th>
+      <th align="center">내용</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td nowrap>이윤승</td>
-      <td>프로젝트 총괄 및 오수 처리 시스템 설계</td>
-      <td>전체 요구사항/일정 관리, 모듈 간 인터페이스 정의, 오수 처리 프로세스(흐름/안전/운영 시나리오) 설계 및 통합 검증 주도</td>
+      <td nowrap align="center">이윤승</td>
+      <td align="center">
+        프로젝트 총괄 및<br>오수 처리 시스템 설계<br>
+        초음파 세척 기능 구현, 컨베이어 벨트 제어 설계 및 3D 모델링
+      </td>
+      <td align="center">
+        전체 요구사항/일정 관리, 모듈 간 인터페이스 정의, 오수 처리 프로세스(흐름/안전/운영 시나리오) 설계 및 통합 검증 주도<br>
+        초음파 세척 모듈 구현 및 동작 조건 튜닝, 컨베이어 구동/제어 로직 설계, 기구 부품 3D 모델링 및 제작 지원
+      </td>
     </tr>
     <tr>
-      <td nowrap>문영민</td>
-      <td>초음파 세척 기능 구현, 컨베이어 벨트 제어 설계 및 3D 모델링</td>
-      <td>초음파 세척 모듈 구현 및 동작 조건 튜닝, 컨베이어 구동/제어 로직 설계, 기구 부품 3D 모델링 및 제작 지원</td>
+      <td nowrap align="center">문영민</td>
+      <td align="center">전원공급장치(파워서플라이)<br>설계 및 제작</td>
+      <td align="center">시스템 요구 전력 분석, 전원부 구성/부품 선정, 안정적인 전원 공급을 위한 설계 반영 및 제작, 동작 테스트/검증 수행</td>
     </tr>
     <tr>
-      <td nowrap>박승규</td>
-      <td>직교좌표 로봇 제어 설계</td>
-      <td>3축(직교좌표) 구동 로직 설계, 홈 포지션/원점 복귀 등 안정 운용 시나리오 구성, 반복 동작 정밀도 개선을 위한 제어 파라미터 조정</td>
+      <td nowrap align="center">박승규</td>
+      <td align="center">직교좌표 로봇 제어 설계</td>
+      <td align="center">3축(직교좌표) 구동 로직 설계, 홈 포지션/원점 복귀 등 안정 운용 시나리오 구성, 반복 동작 정밀도 개선을 위한 제어 파라미터 조정</td>
     </tr>
     <tr>
-      <td nowrap>최성원</td>
-      <td>영상처리 및 사물인식 프로그램 설계</td>
-      <td>카메라 기반 인식 파이프라인 설계, 인식 결과(좌표/상태) 산출 및 제어부 전달 구조 구성, 현장 디버깅을 통한 인식/전송 안정화</td>
+      <td nowrap align="center">최성원</td>
+      <td align="center">영상처리 및<br>사물인식 프로그램 설계</td>
+      <td align="center">카메라 기반 인식 파이프라인 설계, 인식 결과(좌표/상태) 산출 및 제어부 전달 구조 구성, 현장 디버깅을 통한 인식/전송 안정화</td>
     </tr>
   </tbody>
 </table>
