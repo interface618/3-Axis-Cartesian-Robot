@@ -29,8 +29,6 @@ https://github.com/user-attachments/assets/98984104-4c1d-4c73-a88f-227e68fc7fe7
 
 https://github.com/user-attachments/assets/f7063f24-820b-4ae6-a235-6e6485c27786
 
-## 역할 및 코멘트
-
 <h2>역할 및 코멘트</h2>
 
 <table>
