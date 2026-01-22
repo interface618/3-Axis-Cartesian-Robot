@@ -1,3 +1,31 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=3A4A51&height=200&section=header&text=3-Axis-Cartesian-Robot%20&desc=Development-of-an-AI-Based-Smart-Recycling-System&descSize=20&descAlignY=70&fontSize=50" />
+<p align='center'>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=200&color=2c2c2a&text=3-Axis-Cartesian-Robot&section=header&textBg=false&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&fontSize=50&desc=Development-of-an-AI-Based-Smart-Recycling-System&stroke=3-Axis-Cartesian-Robot%20&descAlignY=65&descSize=20" />
 
-제작 기간 : 2024.07.01. ~ 2024.11.30.
+<div align="center">
+<h2>[2024] 3축 직교 좌표 로봇을 활용한 자동 분리수거 장치 ♻️</h2>
+AI 기반 스마트 분리수거 시스템은 웹캠과 딥러닝 모델로 폐기물을 인식한 후 3축 직교좌표 로봇이 자동으로 분류까지 수행하는 시스템입니다.<br> 분류 이후에는 초음파 세척으로 이물질을 제거해 재활용품 품질까지 함께 관리합니다.<br>
+</div>
+
+## 목차
+  - [개요](#개요) 
+  - [작품 설명](#작품-설명)
+  - [작품 작동 방식](#작품-작동-방식)
+
+## 개요
+- 프로젝트 이름: ♻️ 3축 직교 좌표 로봇을 활용한 자동 분리수거 장치 ♻️
+- 프로젝트 지속기간: 2023.02-2024.12
+- 개발 엔진 및 언어: C & Python
+- 멤버: Interface (이윤승 ,박승규 ,최성원 ,문영민)
+
+## 작품 설명
+
+현대 사회에서 재활용률 저하, 잘못된 분리수거, 이물질·라벨로 인한 재활용 품질 저하 문제를 해결하기 위해, AI 인식 + 자동 분류 + 초음파 세척 + IoT 모니터링을 하나의 운영 흐름으로 통합한 스마트 분리수거 시스템입니다.<br>
+사용자가 쓰레기를 투입하면, 시스템이 객체를 인식하고 분류한 뒤 세척까지 수행하여 재활용 가능 상태로 만드는 것을 목표로 합니다.
+
+## 작품 작동 방식
+
+https://github.com/user-attachments/assets/98984104-4c1d-4c73-a88f-227e68fc7fe7
+
+https://github.com/user-attachments/assets/f7063f24-820b-4ae6-a235-6e6485c27786
+
+
